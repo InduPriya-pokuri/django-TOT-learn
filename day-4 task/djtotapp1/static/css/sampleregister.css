@@ -1,0 +1,39 @@
+label {  
+  display: block;  
+  position: relative;  
+  margin: 40px 0px; 
+}
+
+body{
+  background-color: pink;
+}
+
+ .label-txt {  
+
+   position: absolute;  
+   top: -1.6em;  
+   padding: 10px;  
+   font-family: sans-serif;  
+   font-size: .8em;  
+   letter-spacing: 1px;  
+   color: rgb(120,120,120);  
+   transition: ease .3s; 
+
+}
+ .input {  
+   width: 100%;  
+   padding: 10px;  
+   background: skyblue;  
+   border: none;  
+   outline: none; 
+   
+}
+
+h1{
+  font-size: 25px;
+    background-color: gray;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 22px 23px 50px 70px;
+    padding: 34px;
+}
